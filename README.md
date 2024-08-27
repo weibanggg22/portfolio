@@ -30,9 +30,6 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Ethereum Solidity: Writing and deploying smart contracts.
    
-   Polygon Amoy Testnet: Testing blockchain application.
-   
-   Wagmi: Interacting with blockchain with typescript.
    
 5. Networking & Cybersecurity
    
@@ -111,9 +108,9 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    https://github.com/weibanggg22/node-red-smart-thermostat
 
-11. FYP 1 - Digital Student ID using blockchain (Developing)
+11. FYP 1 - Inventory Management System using blockchain (Developing)
 
-    Description: Create a secure and decentralized digital student id system using blockchain technology.
+    Description: Create a secure and decentralized Inventory system using blockchain technology.
 
-    Skills: React Js, React Native, Solidity, Hardhat.
+    Skills: React Js, Solidity, Hardhat.
 
