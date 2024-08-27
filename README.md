@@ -71,7 +71,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skills: Python
 
- (https://github.com/weibanggg22/compare_hash_method)
+   https://github.com/weibanggg22/compare_hash_method
 
 5. Digital Forensics
 
