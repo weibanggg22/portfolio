@@ -91,9 +91,9 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skill: C++
 
-   https://github.com/yangsaiyan/Student-Book-System.git
+   https://github.com/weibanggg22/student_book_system
 
-   https://github.com/yangsaiyan/binary-search-tree.git
+   https://github.com/weibanggg22/binary-search-tree
 
 8. Object-Oriented Programming
 
