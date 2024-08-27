@@ -52,15 +52,12 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Skills used: Java EE, Bootstrap, PostgreSQL.
 
-   https://github.com/yangsaiyan/SpaceZ.git
-
 2. Front-end web development
     
    Description: Create a simple website and implementation of facebook iframe api.
    
    Skills: HTML, CSS, JavaScript, JQuery, Bootstrap.
 
-   https://github.com/yangsaiyan/Royal-s-House.git
 
 3. NAT Port Address Translation and NAT Port Forwarding
 
@@ -112,7 +109,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skill: Node-Red, MQTT, Telegram bot, Influx DB, JavaScript
    
-   https://github.com/yangsaiyan/node-red-brightness-temperature-air-quality.git
+  
 
 11. FYP 1 - Digital Student ID using blockchain (Developing)
 
