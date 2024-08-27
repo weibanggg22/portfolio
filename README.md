@@ -109,7 +109,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
    Skill: Node-Red, MQTT, Telegram bot, Influx DB, JavaScript
    
-  
+   https://github.com/weibanggg22/node-red-smart-thermostat
 
 11. FYP 1 - Digital Student ID using blockchain (Developing)
 
