@@ -101,7 +101,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
     Skill: Java
 
-    https://github.com/yangsaiyan/Stock-Management-System-Java.git
+    https://github.com/weibanggg22/Stock-Management-System-java
 
 9. Mini-Project
 
