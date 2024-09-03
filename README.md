@@ -14,7 +14,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    Python: Machine Learning.
    
-2. Web & Mobile Development
+2. Web Development
    
    HTML/CSS/JavaScript/Bootstrap: Frontend development with responsive design
    
@@ -100,7 +100,7 @@ Bachelor of Information Technology (Honours) Communications and Networking
 
 9. Mini-Project
 
-   Description: IoT - Office (Sensors - Brightness, Temperature, Air Quality) Office equipment automation.
+   Description: IoT - Office Smart Thermostat.
 
    Skill: Node-Red, MQTT, Telegram bot, Influx DB, JavaScript
    
