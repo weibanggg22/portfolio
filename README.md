@@ -18,8 +18,6 @@ Bachelor of Information Technology (Honours) Communications and Networking
    
    HTML/CSS/JavaScript/Bootstrap: Frontend development with responsive design
    
-   React Native: Frontend for mobile application.
-   
    React Js: Frontend for web application.
 
 3. Flow-based programming
